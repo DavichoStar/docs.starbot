@@ -15,7 +15,7 @@ Esto es la guía oficial, pero aquí no se configura el bot. Para ello se está 
 
 ### Apoyar al Bot
 
-Existen diferentes maneras de ayopoyar al crecimiento y desarrollo de StarBot
+Existen diferentes maneras de apoyar al crecimiento y desarrollo de StarBot
 
 * Mediante Patreon con donaciones pequeñas a grandes.
 * Donaciones directas. tendrá que ponerse en contacto con nosotros. _útil para donaciones grandes._
