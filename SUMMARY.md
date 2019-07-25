@@ -8,8 +8,8 @@
 
 * [Todos los comandos.](nucleo/todos-los-comandos..md)
 
-## Bienvenidas/Despedidas
+## Guías
 
-* [Bienvenida](bienvenidas-despedidas/bienvenida.md)
-* [Despedida](bienvenidas-despedidas/despedida.md)
+* [Bienvenida](guias/bienvenida.md)
+* [Despedida](guias/despedida.md)
 
