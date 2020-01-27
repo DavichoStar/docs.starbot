@@ -1,12 +1,12 @@
 # Objetivos y Antecedentes
 
-Cuando inicié este proyecto, buscaba un bot privado y a aprender a programar en el paso, pero cuando vi las grandes cosas que podía hacer, no me lo quise guardar para mí, entonces comencé con un nuevo objetivo, **Hacer un bot con las funciones de todos los demás bots que son indispensables** ya que un sólo bot no me cumplía con todas las necesidades que ocupaba, y era lo que veía día a día en las demas comunidades, además de ver que los demas bots **tenían funciones y comandos de paga obligatoria** si querías usarlos. tenía que hacerlos libres, al alcance de todos, si quisieran apoyar economicamente tiene que ser opcional.
+Cuando inicié este proyecto, buscaba un bot privado y a aprender a programar en el paso, pero cuando vi las grandes cosas que podía hacer, no me lo quise guardar para mí, entonces comencé con un nuevo objetivo, **Hacer un bot con las funciones de todos los demás bots que son indispensables** ya que un sólo bot no me cumplía con todas las necesidades que ocupaba, y era lo que veía día a día en las demás comunidades, además de ver que los demás bots **tenían funciones y comandos de paga obligatoria** si querías usarlos. tenía que hacerlos libres, al alcance de todos, si quisieran apoyar económicamente tiene que ser opcional.
 
-Entonces tenemos que StarBot es
+Entonces tenemos que StarLight es
 
 * Distintas funciones indispensables de bots en uno.
 * Comandos de Paga libres por todos los servidores.
-* No olvidar la diverción en el paso.
+* No olvidar la diversión en el paso.
 * Donaciones son bienvenidas, pero no obligatorias restringiendoles medio bot.
 * Comandos de música mas únicos que los normales.
 * y sobre todo, ¡La personalización! se puede modificar varios aspectos del bot, pero se espera que esto sea aún mas grande.
