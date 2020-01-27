@@ -12,4 +12,5 @@
 
 * [Bienvenida](guias/bienvenida.md)
 * [Despedida](guias/despedida.md)
+* [Sugerencias](guias/sugerencias.md)
 
