@@ -4,11 +4,13 @@ description: Información y uso de los comandos de la categoría.
 
 # 🌠 BOT
 
+{% hint style="info" %}
 **Importante:**  
 _Los '\[\]' se refiere a que es opcional_.  
 _Los '&lt;&gt;' se refiere a que es obligatorio.  
 El '/' se refiere a dos opciones: Opción1/Opción2._  
 **Ninguno de estos símbolos se debe de colocar a la hora de ejecutar el comando.**
+{% endhint %}
 
 **`#1`**
 
