@@ -1,2 +1,0 @@
-# Todos los comandos.
-

@@ -4,14 +4,13 @@
 * [Objetivos y Antecedentes](objetivos-y-antecedentes.md)
 * [Preguntas Frecuentes](preguntas-frecuentes.md)
 
-## Núcleo
+## Categorías
 
-* [Todos los comandos.](nucleo/todos-los-comandos..md)
+* [🌠 BOT](categorias/bot.md)
+* [🎉 Diversión](categorias/diversion.md)
 
 ## Guías
 
-* [🌠 BOT](guias/bot.md)
-* [🎉 Diversión](guias/diversion.md)
 * [Bienvenida](guias/bienvenida.md)
 * [Despedida](guias/despedida.md)
 * [Sugerencias](guias/sugerencias.md)
