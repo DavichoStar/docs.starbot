@@ -1,5 +1,5 @@
 ---
-description: Comandos y uso del mismo
+description: Información y uso de los comandos de la categoría.
 ---
 
 # 🌠 BOT
@@ -22,11 +22,51 @@ sb!bugreport <problema o bug>
 
 **`#2`**
 
-Envía la información de los comandos y más.
+Obtener información de los comandos y más.
 
 ```text
 sb!help [comando]
 ```
 
 > **Alias:** ayuda, comando, comandos, command, commands
+
+**`#3`**
+
+Envía el enlace de invitación de StarLight y algunos links útiles.
+
+```text
+sb!invite [nada]
+```
+
+> **Alias:** invitar
+
+**`#4`**
+
+Obtén el tiempo de respuesta de StarLight.
+
+```text
+sb!ping [nada]
+```
+
+> **Alias**: silbido
+
+**`#5`**
+
+Obtén nuevas novedades sobre StarLight, nuevos comandos y más.
+
+```text
+sb!release [nada]
+```
+
+> **Alias:** lanzamiento, upgrade
+
+**`#6`**
+
+Obtener información y estadísticas de StarLight.
+
+```text
+sb!stats [nada]
+```
+
+> **Alias:** estadísticas, estadisticas
 
