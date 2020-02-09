@@ -10,6 +10,8 @@
 
 ## Guías
 
+* [🌠 BOT](guias/bot.md)
+* [🎉 Diversión](guias/diversion.md)
 * [Bienvenida](guias/bienvenida.md)
 * [Despedida](guias/despedida.md)
 * [Sugerencias](guias/sugerencias.md)
