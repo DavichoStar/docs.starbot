@@ -37,7 +37,7 @@ sb!help [comando]
 Envía el enlace de invitación de StarLight y algunos links útiles.
 
 ```text
-sb!invite [nada]
+sb!invite
 ```
 
 > **Alias:** invitar
@@ -47,7 +47,7 @@ sb!invite [nada]
 Obtén el tiempo de respuesta de StarLight.
 
 ```text
-sb!ping [nada]
+sb!ping
 ```
 
 > **Alias**: silbido
@@ -57,7 +57,7 @@ sb!ping [nada]
 Obtén nuevas novedades sobre StarLight, nuevos comandos y más.
 
 ```text
-sb!release [nada]
+sb!release
 ```
 
 > **Alias:** lanzamiento, upgrade
@@ -67,7 +67,7 @@ sb!release [nada]
 Obtener información y estadísticas de StarLight.
 
 ```text
-sb!stats [nada]
+sb!stats
 ```
 
 > **Alias:** estadísticas, estadisticas

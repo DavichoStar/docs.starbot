@@ -15,10 +15,10 @@ Esto es la guía oficial, pero aquí no se configura el bot. Para ello se está 
 
 ### Apoyar al Bot
 
-Existen diferentes maneras de apoyar al crecimiento y desarrollo de StarLight
+Existen diferentes maneras de apoyar al crecimiento y desarrollo de StarLight. _También encontrarás esta información en el comando `sb!donar`_
 
-* Donaciones directas. tendrá que ponerse en contacto con nosotros. _útil para donaciones grandes._
-* Promocionando al bot por todas partes. Hay que darnos a conocer.
+* Donaciones directas. Puede donar a nuestro [PayPal](https://www.paypal.me/czemtb) o tendrá que ponerse en contacto con nosotros en el servidor.
+* Promocionando al bot. Hay que darnos a conocer por todas partes.
 * Realizando guías, vídeos, redactando textos, etc de como utilizar el bot. StarLight necesita ayuda de todos.
 * Escribiendo Código. Si sabes de programación, tal vez te interese compartir código para seguir implementando cosas nuevas.
 
