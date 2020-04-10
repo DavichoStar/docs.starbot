@@ -24,6 +24,16 @@ sb!bugreport <problema o bug>
 
 **`#2`**
 
+Ve las opciones que tienes para contribuir en el desarrollo y la sustantividad del bot.
+
+```text
+sb!donate
+```
+
+> **Alias:** donar
+
+**`#3`**
+
 Obtener información de los comandos y más.
 
 ```text
@@ -32,7 +42,7 @@ sb!help [comando]
 
 > **Alias:** ayuda, comando, comandos, command, commands
 
-**`#3`**
+**`#4`**
 
 Envía el enlace de invitación de StarLight y algunos links útiles.
 
@@ -42,7 +52,7 @@ sb!invite
 
 > **Alias:** invitar
 
-**`#4`**
+**`#5`**
 
 Obtén el tiempo de respuesta de StarLight.
 
@@ -52,7 +62,7 @@ sb!ping
 
 > **Alias**: silbido
 
-**`#5`**
+**`#6`**
 
 Obtén nuevas novedades sobre StarLight, nuevos comandos y más.
 
@@ -62,7 +72,7 @@ sb!release
 
 > **Alias:** lanzamiento, upgrade
 
-**`#6`**
+**`#7`**
 
 Obtener información y estadísticas de StarLight.
 

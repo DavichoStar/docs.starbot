@@ -2,9 +2,9 @@
 
 ### Estableciendo el canal 
 
-Para establece el canal en donde se enviaran las sugerencias usa el siguiente comando `sb!set sugerencias <#canal>` 
+Para establece el canal en donde se enviaran las sugerencias usa el siguiente comando `sb!setsugerencias <#canal>` 
 
-![Respuesta al usar el comando](../.gitbook/assets/image%20%289%29.png)
+![Respuesta al usar el comando](../.gitbook/assets/screenshot_20200410111426.png)
 
 ### Sugerir
 
