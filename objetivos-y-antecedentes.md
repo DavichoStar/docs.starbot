@@ -8,7 +8,6 @@ Entonces tenemos que StarLight es
 * Comandos de Paga libres por todos los servidores.
 * No olvidar la diversión en el paso.
 * Donaciones son bienvenidas, pero no obligatorias restringiendoles medio bot.
-* Comandos de música mas únicos que los normales.
 * y sobre todo, ¡La personalización! se puede modificar varios aspectos del bot, pero se espera que esto sea aún mas grande.
 
 Ahora sólo faltas tú, con todos se logra cosas grandes y puedes contribuir a este gran proyecto.

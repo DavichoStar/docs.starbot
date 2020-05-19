@@ -12,7 +12,7 @@ El '/' se refiere a dos opciones: Opción1/Opción2._
 **Ninguno de estos símbolos se debe de colocar a la hora de ejecutar el comando.**
 {% endhint %}
 
-**`#1`**
+**`#1` bugreport**
 
 Reportar cualquier problema o falla al servidor de soporte oficial para arreglar el problema.
 
@@ -22,7 +22,7 @@ sb!bugreport <problema o bug>
 
 > **Alias:** bug, reportarbug
 
-**`#2`**
+**`#2` donate**
 
 Ve las opciones que tienes para contribuir en el desarrollo y la sustantividad del bot.
 
@@ -32,7 +32,7 @@ sb!donate
 
 > **Alias:** donar
 
-**`#3`**
+**`#3` help**
 
 Obtener información de los comandos y más.
 
@@ -42,7 +42,7 @@ sb!help [comando]
 
 > **Alias:** ayuda, comando, comandos, command, commands
 
-**`#4`**
+**`#4` invite**
 
 Envía el enlace de invitación de StarLight y algunos links útiles.
 
@@ -52,7 +52,7 @@ sb!invite
 
 > **Alias:** invitar
 
-**`#5`**
+**`#5` ping**
 
 Obtén el tiempo de respuesta de StarLight.
 
@@ -62,7 +62,7 @@ sb!ping
 
 > **Alias**: silbido
 
-**`#6`**
+**`#6` release**
 
 Obtén nuevas novedades sobre StarLight, nuevos comandos y más.
 
@@ -72,7 +72,7 @@ sb!release
 
 > **Alias:** lanzamiento, upgrade
 
-**`#7`**
+**`#7` stats**
 
 Obtener información y estadísticas de StarLight.
 

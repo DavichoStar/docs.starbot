@@ -12,11 +12,11 @@ Para establece el canal en donde se enviaran las sugerencias usa el siguiente co
 
 Al mandar el comando, este se eliminará y mandará una respuesta que también será eliminado en los próximos segundos
 
-![Respuesta al sugerir](../.gitbook/assets/image%20%285%29.png)
+![Respuesta al sugerir](../.gitbook/assets/image%20%283%29.png)
 
 La sugerencia se enviara al canal establecido anteriormente para que los usuarios puedan votar
 
-![Los votos no cuenta la reacci&#xF3;n del propio bot](../.gitbook/assets/image%20%282%29.png)
+![Los votos no cuenta la reacci&#xF3;n del propio bot](../.gitbook/assets/image%20%281%29%20%281%29.png)
 
 ### `Califica las sugerencias`
 
@@ -31,7 +31,7 @@ Aprueba una sugerencia.  `sb!aprobar <ID> <razón>`
 
 Pon en potencial una sugerencia. `sb!potencial <ID> <razón>`
 
-![Sugerencia en potencial](../.gitbook/assets/image%20%288%29.png)
+![Sugerencia en potencial](../.gitbook/assets/image%20%285%29.png)
 
 Rechaza una sugerencia. `sb!rechazar <ID> <razón>`
 
