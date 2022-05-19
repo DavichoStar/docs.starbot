@@ -7,10 +7,8 @@ Entonces tenemos que StarLight es
 * Distintas funciones indispensables de bots en uno.
 * Comandos de Paga libres por todos los servidores.
 * No olvidar la diversión en el paso.
-* Donaciones son bienvenidas, pero no obligatorias restringiendoles medio bot.
+* Donaciones son bienvenidas, pero no obligatorias restringiéndoles medio bot.
 * y sobre todo, ¡La personalización! se puede modificar varios aspectos del bot, pero se espera que esto sea aún mas grande.
 
 Ahora sólo faltas tú, con todos se logra cosas grandes y puedes contribuir a este gran proyecto.
-
-
 
