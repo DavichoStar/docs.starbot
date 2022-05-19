@@ -1,16 +1,8 @@
 ---
-description: Información y uso de los comandos de la categoría.
+description: Información y uso de los comandos de la categoría Core.
 ---
 
 # 🌠 BOT
-
-{% hint style="info" %}
-**Importante:**\
-****_Los '\[]' se refiere a que es opcional_.\
-_Los '<>' se refiere a que es obligatorio._\
-_El '/' se refiere a dos opciones: Opción1/Opción2._\
-**Ninguno de estos símbolos se debe de colocar a la hora de ejecutar el comando.**
-{% endhint %}
 
 **`#1` BotInfo**
 
