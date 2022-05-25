@@ -9,7 +9,7 @@
 
 * [Introducción](guias/introduccion.md)
 * [Idioma](guias/idioma.md)
-* [Bienvenida](guias/bienvenida.md)
+* [Bienvenidas/Despedidas](guias/bienvenida.md)
 
 ## Categorías
 
