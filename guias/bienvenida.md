@@ -167,6 +167,8 @@ logs:
     channel_entry: '123456789012345678'
 ```
 
+![Ejemplo con invitación usada](<../.gitbook/assets/image (11).png>)
+
 {% hint style="info" %}
 En la suscripción premium, trata de darte la invitación probable con la que entró este usuario. Estamos trabajando constantemente para que esto sea 100% precisa.
 {% endhint %}
